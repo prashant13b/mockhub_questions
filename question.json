@@ -1,0 +1,33 @@
+{ "questions":[
+  {
+    "question": "Which one of the following is Nidhi's Favourite Song",
+    "correct_answer": "Banjara",
+    "options": [
+      "Excuse",
+      "Taazdare haram",
+      "Banjara",
+      "Villain"
+    ]
+  },
+{
+    "question": "Nidhi Bhardwaj is crazy about?",
+    "correct_answer": "All of the above",
+    "options": [
+      "Twitty",
+      "Stars",
+      "Jimmy",
+      "All of the above"
+    ]
+  },
+  {
+    "question": "what is Nidhi's favourite word?",
+    "correct_answer": "Cute",
+    "options": [
+      "Pyara",
+      "Lobla",
+      "Cute",
+      "Sundar"
+    ]
+  }
+]
+}

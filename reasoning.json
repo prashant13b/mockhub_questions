@@ -1,0 +1,184 @@
+{ "questions":[
+  {
+    "question": "One morning, Manish and Ali were talking to each other face to face at a crossing. If Ali's shadow was exactly to the left of Manish, which direction was Manish facing?",
+    "correct_answer": "North",
+    "options": [
+      "North",
+      "East",
+      "West",
+      "South"
+    ]
+  },  {
+    "question": "Y has to score 40% marks to pass. He gets 20 marks and fails by 40 marks. The maximum marks of the exam are?",
+    "correct_answer": "150",
+    "options": [
+      "150",
+      "100",
+      "200",
+      "250"
+    ]
+  },  {
+    "question": "Amit covers a distance at a speed of 24 km/hr in 6 min. If he wants to cover the same distance in 8 min, what should be his speed?",
+    "correct_answer": "18 km/hr",
+    "options": [
+      "18 km/hr",
+      "21 km/hr",
+      "30 km/hr",
+      "15 km/hr"
+    ]
+  },  {
+    "question": "If 12 men or 16 women can do a work in 172 days, how long will 21 men and 15 women to do the same work?",
+    "correct_answer": "64 days",
+    "options": [
+      "64 days",
+      "60 days",
+      "86 days",
+      "75 days"
+    ]
+  },  {
+    "question": "Find average of natural numbers from 1 to 65?",
+    "correct_answer": "33",
+    "options": [
+      "32.5",
+      "33",
+      "130",
+      "65"
+    ]
+  },  {
+    "question": "Simran takes twice as long to swim up as to swim down the river and has a speed of 12 km/hr in still water. What is river’s speed?",
+    "correct_answer": "4 km/hr",
+    "options": [
+      "6 km/hr",
+      "3 km/hr",
+      "8 km/hr",
+      "4 km/hr"
+    ]
+  },  {
+    "question": " Ram is three times as old as his Sam. 2 years ago he was five times as old as Sam. What is the present age of Ram?",
+    "correct_answer": "12 years",
+    "options": [
+      "12 years",
+      "14 years",
+      "18 years",
+      "24 years"
+    ]
+  },  {
+    "question": " When will be both hands of a clock at right angle, between 8pm and 9pm?",
+    "correct_answer": "27 (3/11) minutes past 8 pm",
+    "options": [
+      "27 (3/11) minutes past 8 pm",
+      "25 (7/11) minutes past 8 pm",
+      "29 (8/11) minutes past 8 pm",
+      "24 (5/11) minutes before 8 pm"
+    ]
+  },  {
+    "question": " A is formed by reversing the digits of B. B is 45 less than A. The sum of the digits of B is 9. What is A?",
+    "correct_answer": "72",
+    "options": [
+      "72",
+      "36",
+      "81",
+      "54"
+    ]
+  },  {
+    "question": "4/7 of 2/3 of 5/6 of  5/8 of 1008 is",
+    "correct_answer": "200",
+    "options": [
+      "200",
+      "144",
+      "64",
+      "400"
+    ]
+  },  {
+    "question": "The ratio of two numbers is 5 : 6 and their LCM is 480, then their HCF is?",
+    "correct_answer": "16",
+    "options": [
+      "96",
+      "12",
+      "16",
+      "240"
+    ]
+  },  {
+    "question": "What is value of [(3 x 3 x 3 x 3 x 3 x 3)6 ÷ (3 x 3 x 3 x 3)7x 34]?",
+    "correct_answer": "27^4",
+    "options": [
+      "27^4",
+      "27^9",
+      "3^15",
+      "9^10"
+    ]
+  },  {
+    "question": "What will be selling price, if cost price is Rs. 120 and gain is 35%?",
+    "correct_answer": "Rs 162",
+    "options": [
+      "Rs 162",
+      "Rs 135",
+      "Rs 85",
+      "Rs 155"
+    ]
+  },  {
+    "question": "A train moves with the speed of 180 km/hr. Its speed (in metres per second) is",
+    "correct_answer": "50",
+    "options": [
+      "50",
+      "40",
+      "30",
+      "5"
+    ]
+  },  {
+    "question": "A train 120 m long passes a telegraph post in 6 seconds. Find the speed of the train.",
+    "correct_answer": "72 km/hr",
+    "options": [
+      "72 km/hr",
+      "60 km/hr",
+      "72.5 km/hr",
+      "80 km/hr"
+    ]
+  },  {
+    "question": "If ratio of the areas of two squares is 1:4, the ratio of their perimeters is",
+    "correct_answer": "1:2",
+    "options": [
+      "1:2",
+      "1:4",
+      "1:6",
+      "1:8"
+    ]
+  },  {
+    "question": "A room is 6m long, 5m broad and 4m high. The maximum length of rod that can be kept in the room is",
+    "correct_answer": "sqrt(77)",
+    "options": [
+      "sqrt(61)",
+      "sqrt(16)",
+      "sqrt(36)",
+      "sqrt(77)"
+    ]
+  },  {
+    "question": " 4^61 + 4^62 + 4^63 + 4^64 + 4^65 is divisible by",
+    "correct_answer": "11",
+    "options": [
+      "11",
+      "3",
+      "5",
+      "17"
+    ]
+  },  {
+    "question": " If a*b = 2a+3b, then the value of 2*3 + 3*4 is",
+    "correct_answer": "31",
+    "options": [
+      "24",
+      "31",
+      "32",
+      "34"
+    ]
+  },  {
+    "question": "The average of three numbers is 77. The first number is twice the second and the second number is twice the third. Find the first number.",
+    "correct_answer": "132",
+    "options": [
+      "66",
+      "77",
+      "33",
+      "132"
+    ]
+  }
+]
+}
